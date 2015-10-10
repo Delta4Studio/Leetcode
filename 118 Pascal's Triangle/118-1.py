@@ -12,3 +12,4 @@ class Solution(object):
                 x[i].append(x[i][j-1] * (i+1-j) / j )
             x[i].append(1)
         return x
+#Min:40ms
