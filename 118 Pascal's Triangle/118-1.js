@@ -11,3 +11,4 @@ var generate = function(numRows){
     } 
     return x; 
 }
+//Min:120ms 
