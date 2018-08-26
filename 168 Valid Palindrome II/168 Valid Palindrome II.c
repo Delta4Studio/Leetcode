@@ -43,3 +43,5 @@ bool validPalindrome(char* s) {
     // printf("You could delete the character \'%c\' in %d", *(s+k), k+1);
     return true;
 }
+
+//Min 24ms
